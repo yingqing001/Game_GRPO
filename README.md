@@ -11,7 +11,7 @@ We train from the model `Qwen2.5-3B-Instruct`:
 bash train.sh
 ```
 
-## Result
+## Results
 
 Training on 4 episodes within one group (all starting from the same initial game) shows a clear increase in reward:
 
