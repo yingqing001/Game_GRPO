@@ -21,7 +21,7 @@ Training on 4 episodes within one group (all starting from the same initial game
 ## Demo
 
 A short demo of our trained LLM agent playing 2048:
-[**View the game log**](demo/game_log.pdf)
+[**view the game log**](demo/game_log.pdf)
 
 
 
