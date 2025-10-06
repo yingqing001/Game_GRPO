@@ -1,6 +1,6 @@
 # 🚀 Game_GRPO: Training an LLM Agent for 2048
 
-This repo contains a simple, from-scratch GRPO implementation to train an LLM agent to play **2048**. The focus is training via multi-turn interaction (board → move → new board → …). No dependency on `vLLM` or `verl`.
+This repo contains a simple, from-scratch GRPO implementation to train an LLM agent to play the game **2048**. The focus is training via multi-turn interaction (board → move → new board → …). No dependency on `vLLM` or `verl`.
 
 
 ## Training 
